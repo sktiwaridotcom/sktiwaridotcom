@@ -43,3 +43,16 @@ I help businesses build scalable websites, automation systems, and AI-powered so
 ## 🚀 Mission
 
 Empowering businesses and students with future technologies.
+
+---
+
+## 📊 What I Work On
+- Enterprise websites  
+- AI automation systems  
+- Client acquisition tools  
+- Drupal-based platforms  
+
+---
+
+## 🚀 Currently Building
+AI tools for business growth and automation of client discovery.
