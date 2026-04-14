@@ -1,4 +1,5 @@
-<img width="1500" height="500" alt="Web Developer  Entrepreneur  AI Builder (2)" src="https://github.com/user-attachments/assets/d4c06877-4aeb-4e67-8e45-50143abdcd93" />
+<img width="1500" height="500" alt="Web Developer  Entrepreneur  AI Builder (3)" src="https://github.com/user-attachments/assets/f4847adb-083e-486e-9696-65c0f20dbf9c" />
+
 # 👋 Hi, I'm S K Tiwari
 
 🚀 Entrepreneur | 💻 Web Developer | 🤖 AI Builder
