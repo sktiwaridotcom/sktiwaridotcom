@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm S K Tiwari
 
-<!--
-**sktiwaridotcom/sktiwaridotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Entrepreneur | 💻 Web Developer | 🤖 AI Builder
 
-Here are some ideas to get you started:
+I help businesses build scalable websites, automation systems, and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+* Drupal, PHP, Symfony
+* Python, AI Tools
+* JavaScript, HTML, CSS
+* MySQL, PostgreSQL
+
+---
+
+## 🏢 Companies
+
+* Robozn IT Services Pvt. Ltd.
+* Duffins Technologies
+* Busshike Solution
+
+---
+
+## 🌐 What I Do
+
+* 🌍 Build business websites
+* 🤖 Create AI automation tools
+* 🧠 Share tech knowledge
+
+---
+
+## 📫 Contact Me
+
+* Email: [iam@sktiwari.com](mailto:iam@sktiwari.com)
+* Website: https://www.sktiwari.com
+
+---
+
+## 🚀 Mission
+
+Empowering businesses and students with future technologies.
