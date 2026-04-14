@@ -8,14 +8,15 @@ I help businesses build scalable websites, automation systems, and AI-powered so
 
 ---
 
-# 🚀 I Build Web + AI Systems That Help Businesses Grow
+# 🚀 Need a Website, AI Tool, or Business Automation?
 
-I specialize in:
-- Drupal enterprise websites
-- AI automation tools
-- Client acquisition systems
+I help businesses build:
+- High-performance websites (Drupal / PHP)
+- AI automation systems
+- Lead generation tools
 
-📩 Contact: iam@sktiwari.com
+📩 Contact me directly:
+Email: iam@sktiwari.com  
 🌐 Website: https://www.sktiwari.com
 
 ---
@@ -71,11 +72,23 @@ AI tools for business growth and automation of client discovery.
 
 ---
 
-## 💼 Work With Me
+## 💼 Why Work With Me?
+
+✔ 10+ years experience  
+✔ Worked with businesses & institutions  
+✔ Founder of multiple tech companies  
+✔ Real production-level systems (not just practice code)
+
+---
+
+## 💼 Let’s Work Together
 
 If you're a business looking for:
 - A high-performance website
 - AI automation solutions
 - Custom web systems
+  
+If you have a project idea or need technical help, feel free to reach out.
+I respond to serious business inquiries.
 
 📩 Reach me: iam@sktiwari.com
