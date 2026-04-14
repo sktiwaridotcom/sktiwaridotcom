@@ -8,6 +8,18 @@ I help businesses build scalable websites, automation systems, and AI-powered so
 
 ---
 
+# 🚀 I Build Web + AI Systems That Help Businesses Grow
+
+I specialize in:
+- Drupal enterprise websites
+- AI automation tools
+- Client acquisition systems
+
+📩 Contact: iam@sktiwari.com
+🌐 Website: https://www.sktiwari.com
+
+---
+
 ## 🔧 Tech Stack
 
 * Drupal, PHP, Symfony
@@ -56,3 +68,14 @@ Empowering businesses and students with future technologies.
 
 ## 🚀 Currently Building
 AI tools for business growth and automation of client discovery.
+
+---
+
+## 💼 Work With Me
+
+If you're a business looking for:
+- A high-performance website
+- AI automation solutions
+- Custom web systems
+
+📩 Reach me: iam@sktiwari.com
