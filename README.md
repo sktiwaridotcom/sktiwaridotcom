@@ -1,36 +1,44 @@
 <img width="1500" height="500" alt="Web Developer  Entrepreneur  AI Builder (3)" src="https://github.com/user-attachments/assets/f4847adb-083e-486e-9696-65c0f20dbf9c" />
 
+
+
 # 👋 Hi, I'm S K Tiwari
 
 🚀 Entrepreneur | 💻 Web Developer | 🤖 AI Builder
 
-I help businesses build scalable websites, automation systems, and AI-powered solutions.
+I design and build **scalable web systems, automation tools, and AI-powered solutions** that help businesses grow and operate efficiently.
 
 ---
 
-# 🚀 Need a Website, AI Tool, or Business Automation?
+# 💼 What I Do
 
-I help businesses build:
-- High-performance websites (Drupal / PHP)
-- AI automation systems
-- Lead generation tools
+I help businesses transform ideas into real digital systems:
 
-📩 Contact me directly:
-Email: iam@sktiwari.com  
-🌐 Website: https://www.sktiwari.com
+* 🌐 High-performance websites (Drupal / PHP)
+* 🤖 AI automation tools & workflows
+* 📈 Lead generation & business systems
+* ⚙️ Custom web applications
 
 ---
 
-## 🔧 Tech Stack
+# 🚀 Currently Focused On
 
-* Drupal, PHP, Symfony
-* Python, AI Tools
-* JavaScript, HTML, CSS
-* MySQL, PostgreSQL
+* AI-powered business automation systems
+* Client acquisition & lead generation tools
+* Scalable Drupal-based enterprise platforms
 
 ---
 
-## 🏢 Companies
+# 🛠️ Tech Stack
+
+* **Backend:** Drupal, PHP, Symfony
+* **Frontend:** JavaScript, HTML, CSS
+* **AI & Automation:** Python, AI APIs
+* **Database:** MySQL, PostgreSQL
+
+---
+
+# 🏢 Experience & Ventures
 
 * Robozn IT Services Pvt. Ltd.
 * Duffins Technologies
@@ -38,57 +46,42 @@ Email: iam@sktiwari.com
 
 ---
 
-## 🌐 What I Do
+# 📊 Focus Areas
 
-* 🌍 Build business websites
-* 🤖 Create AI automation tools
-* 🧠 Share tech knowledge
-
----
-
-## 📫 Contact Me
-
-* Email: [iam@sktiwari.com](mailto:iam@sktiwari.com)
-* Website: https://www.sktiwari.com
+* Enterprise website development
+* AI-driven automation systems
+* Business growth tools
+* Digital transformation solutions
 
 ---
 
-## 🚀 Mission
+# 💼 Why Work With Me?
 
-Empowering businesses and students with future technologies.
-
----
-
-## 📊 What I Work On
-- Enterprise websites  
-- AI automation systems  
-- Client acquisition tools  
-- Drupal-based platforms  
+✔ 10+ years industry experience
+✔ Founder of multiple tech companies
+✔ Delivered real production systems for businesses & institutions
+✔ Focused on results, not just code
 
 ---
 
-## 🚀 Currently Building
-AI tools for business growth and automation of client discovery.
+# 📬 Let’s Work Together
+
+If you're a business looking to:
+
+* Build a high-performance website
+* Automate workflows using AI
+* Improve leads & conversions
+* Develop custom digital systems
+
+I can help you build it.
 
 ---
 
-## 💼 Why Work With Me?
-
-✔ 10+ years experience  
-✔ Worked with businesses & institutions  
-✔ Founder of multiple tech companies  
-✔ Real production-level systems (not just practice code)
+📩 **Email:** [iam@sktiwari.com](mailto:iam@sktiwari.com)
+🌐 **Website:** https://www.sktiwari.com
 
 ---
 
-## 💼 Let’s Work Together
+# 🚀 Mission
 
-If you're a business looking for:
-- A high-performance website
-- AI automation solutions
-- Custom web systems
-  
-If you have a project idea or need technical help, feel free to reach out.
-I respond to serious business inquiries.
-
-📩 Reach me: iam@sktiwari.com
+Empowering businesses with **future-ready technology, AI systems, and scalable digital solutions**.
