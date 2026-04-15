@@ -2,78 +2,89 @@
 
 
 
+
 # 👋 Hi, I'm S K Tiwari
 
-🚀 Entrepreneur | 💻 Web Developer | 🤖 AI Builder
+🚀 AI & Web Solutions Architect | Entrepreneur
 
-I design and build **scalable web systems, automation tools, and AI-powered solutions** that help businesses grow and operate efficiently.
-
----
-
-# 💼 What I Do
-
-I help businesses transform ideas into real digital systems:
-
-* 🌐 High-performance websites (Drupal / PHP)
-* 🤖 AI automation tools & workflows
-* 📈 Lead generation & business systems
-* ⚙️ Custom web applications
+I help businesses **build, optimize, and scale digital systems** that generate leads, automate operations, and drive growth.
 
 ---
 
-# 🚀 Currently Focused On
+# 💼 What I Deliver
 
-* AI-powered business automation systems
-* Client acquisition & lead generation tools
-* Scalable Drupal-based enterprise platforms
+I don’t just build websites — I create **business systems**:
+
+* 🌐 High-performance websites that convert visitors into clients
+* 🤖 AI automation systems to reduce manual work
+* 📈 Lead generation funnels for consistent business growth
+* ⚙️ Custom web platforms tailored to business needs
 
 ---
 
-# 🛠️ Tech Stack
+# 🎯 Who I Work With
 
-* **Backend:** Drupal, PHP, Symfony
-* **Frontend:** JavaScript, HTML, CSS
+* Startups & founders
+* Growing businesses
+* Agencies looking for technical execution
+* Organizations needing scalable systems
+
+---
+
+# 🚀 Current Focus
+
+* AI-powered business automation
+* Smart client acquisition systems
+* Scalable Drupal enterprise platforms
+
+---
+
+# 🛠️ Core Expertise
+
+* **Web Systems:** Drupal, PHP, Symfony
 * **AI & Automation:** Python, AI APIs
-* **Database:** MySQL, PostgreSQL
+* **Frontend:** JavaScript, HTML, CSS
+* **Databases:** MySQL, PostgreSQL
 
 ---
 
-# 🏢 Experience & Ventures
+# 🏢 Experience
+
+Founder & Consultant behind:
 
 * Robozn IT Services Pvt. Ltd.
 * Duffins Technologies
 * Busshike Solution
 
----
-
-# 📊 Focus Areas
-
-* Enterprise website development
-* AI-driven automation systems
-* Business growth tools
-* Digital transformation solutions
+✔ 10+ years building production systems
+✔ Worked with businesses, institutes & international clients
+✔ Delivered scalable, real-world solutions
 
 ---
 
-# 💼 Why Work With Me?
+# 💡 What Makes Me Different
 
-✔ 10+ years industry experience
-✔ Founder of multiple tech companies
-✔ Delivered real production systems for businesses & institutions
-✔ Focused on results, not just code
+Most developers write code.
+
+I focus on:
+
+* ✔ Business outcomes
+* ✔ System thinking
+* ✔ Automation & scalability
+* ✔ Long-term growth
 
 ---
 
-# 📬 Let’s Work Together
+# 📬 Work With Me
 
-If you're a business looking to:
+If you're looking to:
 
-* Build a high-performance website
-* Automate workflows using AI
-* Improve leads & conversions
-* Develop custom digital systems
+* Build a powerful business website
+* Automate processes using AI
+* Improve lead generation & conversions
+* Develop a scalable digital system
 
-I can help you build it.
+Let’s talk.
 
 ---
 
@@ -84,4 +95,4 @@ I can help you build it.
 
 # 🚀 Mission
 
-Empowering businesses with **future-ready technology, AI systems, and scalable digital solutions**.
+To help businesses leverage **AI + web technology** to scale faster, operate smarter, and grow sustainably.
